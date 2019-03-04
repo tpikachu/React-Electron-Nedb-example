@@ -1,0 +1,4 @@
+{"VPS":"aws","Instance_Name":"dfdf","Zone":"ca-central-1 (Canada)","Proxy":"","User":"test","Password":"test","Status":0,"Speed":0,"_id":"0BmecwVRBgt50nhh","createdAt":{"$$date":1546796969266},"updatedAt":{"$$date":1546796969266}}
+{"VPS":"CG","Instance_Name":"sdf","Zone":"dkf","Proxy":3535,"User":"dfkkdf","Password":"dkfdf","Status":"dkfkdf","Speed":"dfkdfdf","_id":"LUoUMpHUovp9JEPz","createdAt":{"$$date":1546794872026},"updatedAt":{"$$date":1546794872026}}
+{"VPS":"AWS","Instance_Name":"we23","Zone":"dkf","Proxy":3434,"User":"dfkkdf","Password":"dkfdf","Status":"dkfkdf","Speed":"dfkdfdf","_id":"TPYJ3ykEYEpC5nHd","createdAt":{"$$date":1546794872026},"updatedAt":{"$$date":1546794872026}}
+{"VPS":"google-cloud","Instance_Name":"dfdf","Zone":"northamerica-northeast1-c (MONTREAL)","Proxy":"2","User":"a","Password":"a","Status":0,"Speed":0,"_id":"U9C50obXHQWDevvb","createdAt":{"$$date":1546795852163},"updatedAt":{"$$date":1546795852163}}
