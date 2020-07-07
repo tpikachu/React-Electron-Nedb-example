@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "electron": "^1.8.8",
+    "electron": "^9.1.0",
     "electron-packager": "^13.0.1",
     "foreman": ">=3.01",
     "react-scripts": "0.8.5"
